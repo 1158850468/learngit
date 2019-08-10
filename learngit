@@ -1,0 +1,53 @@
+commit eb8847615404cdf9f2fdf88dab99be841c6a433d
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Sat Aug 10 09:27:16 2019 +0800
+
+    delete test.test.txt
+
+commit 1547cf601c69aeb8c694a666b303c347c1c2af7f
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Sat Aug 10 09:24:48 2019 +0800
+
+    add a feeling
+
+commit ff627d6bb3da0b620062d99d53ae9cd8596b270e
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 17:52:46 2019 +0800
+
+    add test.txt
+
+commit 2a5bb01bfe02ecb17f8d34461684ec91bf53e120
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 17:30:26 2019 +0800
+
+    git tracks changes
+
+commit f5bfc1bfe10b351d28f89a54c99347273e7dac02
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 17:23:34 2019 +0800
+
+    git tracks changes
+
+commit 9794b46d599b02fbaf7a802927f355e29a49a0cf
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 13:48:11 2019 +0800
+
+    understand how stage works
+
+commit 46c720021e8b742f4494d4203f7e6a0333d8e092
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 10:47:42 2019 +0800
+
+    append GPL
+
+commit 5769089e4d2ef13631f606fce4ff3509461a966d
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 10:38:41 2019 +0800
+
+    add distributed
+
+commit 46aca33a70afbed2e959bf5dcbd7f55f4c872daf
+Author: baizhichao <baizhichao@doumi.com>
+Date:   Fri Aug 9 10:24:45 2019 +0800
+
+    wrote a readme file
